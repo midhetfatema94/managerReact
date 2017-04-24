@@ -20,6 +20,7 @@ class LoginForm extends Component {
                         placeholder="password"
                     />
                 </CardSection>
+                
                 <CardSection>
                     <Button>
                         Login
