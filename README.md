@@ -2,8 +2,7 @@
 
 React-Native project from Stephen Grider's Udemy Course.
 
-##Installation
-________________
+## Installation
 
 To install, clone or download the project's zip file.
 
